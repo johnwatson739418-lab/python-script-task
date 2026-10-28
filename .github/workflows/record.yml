@@ -31,7 +31,7 @@ jobs:
       fail-fast: false
       matrix:
         target:
-          - "@Apka-aashu|UCGFi8l9sf5ab4hVJf7byBZg"
+          - "@Timeline-WorldHistoryDocumentaries|UC88lvyJe7aHZmcvzvubDFRg"
 
     steps:
       - name: Checkout Repository
